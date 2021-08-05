@@ -1,1 +1,1 @@
-Imagine only having priavte repos.
+Imagine only having private repos.
